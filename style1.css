@@ -20,7 +20,7 @@ color: #002E1F;
     }
     
     h1{
-        font-size: 84px;
+        font-size: 75px;
         margin: 0;
         color: #363958;
         font-family: 'Bebas Neue', cursive;
@@ -30,9 +30,9 @@ color: #002E1F;
     p{
         font-family: 'Roboto', sans-serif;
         color: #3E3E3E;
-        font-size: 22px;
+        font-size: 20px;
         font-weight: 600;
-        margin: 64px 0;
+        margin: 47px 0;
     }
     .orange-highlight{
     color: #FF8367;
@@ -50,11 +50,11 @@ img{
     .link-button{
         text-decoration: none;
         background-image: linear-gradient(45deg, lightsalmon, tomato);
-        padding: 20px 49px;
+        padding: 13px 31px;
         font-weight: 400;
         border-radius: 7px;
         color: white;
-        font-size: 24px;
+        font-size: 21px;
     }
     h2{
         font-size: 56px;
@@ -65,7 +65,7 @@ img{
         /* margin-top: 0px; */
     }
     section{
-        height: 481px;
+        height: 320px;
         padding-bottom: 286px;
     }
     
@@ -84,32 +84,32 @@ img{
         width: 27%;
         margin: 80px 9px;
         box-shadow: 0px 7px 16px grey;
-        height: 406px;
+        height: 320px;
     }
     img{
         width: 100%;
     }
 .creative-agency h3{
     color: #363958;
-    font-size: 27px;
+    font-size: 20px;
     font-weight: 700;
 }
 .creative-agency span{
     font-family: 'Roboto', sans-serif;
     color: #3E3E3E;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: 600;
 }
 .working-project h4{
-    font-size: 50px;
+    font-size: 46px;
     margin: 0;
     color: #363958;
     font-family: 'Bebas Neue', cursive;
     font-weight: 400;
     padding-left: 33%;
-    padding-top: 65px;
+    padding-top: 29px;
 }
-.work-inquiry{padding-bottom: 0;padding-top: 171px;height: 351px;}
+.work-inquiry{padding-bottom: 0;padding-top: 89px;height: 351px;}
 .work{
     background-image: url("./images/Group_33094_1.png");
     background-repeat: no-repeat;
