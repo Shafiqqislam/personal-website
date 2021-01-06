@@ -154,12 +154,11 @@ margin-right: 96px;
 }
 
 .stay-connected ul{
-    margin-left: 64px;
+    /* margin-left: 64px; */
 }
-.stay-connected ul li{
-float: left;
-list-style: none;
-}
+.stay-connected ul li{/* float: left; */list-style: none;}
 .stay-connected ul li img{
-    width: 41%;
+    width: 10%;
+    float: left;
+    margin-left: 51px;
     }
