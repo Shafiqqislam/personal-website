@@ -112,7 +112,9 @@ img{
 
 .work-inquiry {
     padding-bottom: 0;
-    height: 290px;
+    height: 297px;
+    /* padding-top: 72px; */
+    padding: 70px 0px;
 }
 .work{
     background-image: url("./images/Group_33094_1.png");
@@ -165,5 +167,5 @@ img{
  .stay-connected ul li img {
         width: 12%;
         float: left;
-        margin-left: 42px;
+        margin-left: 23px;
     }
